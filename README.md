@@ -20,11 +20,13 @@ En las siguientes carpetas encontrarás todos los recursos del proyecto:
     Conjunto de códigos destinados a realizar las distintas pruebas y validaciones del robot, incluyendo test de motores, sensores, botones e inicialización.
 
 - [`documentacion/`](./documentacion/)  
-  Contiene los documentos generados durante el desarrollo del proyecto:  
+  Contiene los documentos generados durante el desarrollo del proyecto junto con los archivos de las piezas:  
   - **Informe de Autoevaluación** (diario de trabajo, problemas encontrados y soluciones aplicadas)  
   - **Informe Técnico** (documentación completa para replicar el proyecto en casa)  
   - **Manual del Usuario** (instrucciones para montar y utilizar el robot)  
   - **Manual de Mantenimiento** (indicaciones de cuidado y mantenimiento del sistema)
+  [`piezas/`](./documentacion/piezas)  
+    Piezas para la impresión 3D
 
 - [`enunciado/`](./enunciado/)  
   Carpeta que contiene el enunciado completo del proyecto.
