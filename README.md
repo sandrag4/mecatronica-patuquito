@@ -25,7 +25,7 @@ En las siguientes carpetas encontrarás todos los recursos del proyecto:
   - **Informe Técnico** (documentación completa para replicar el proyecto en casa)  
   - **Manual del Usuario** (instrucciones para montar y utilizar el robot)  
   - **Manual de Mantenimiento** (indicaciones de cuidado y mantenimiento del sistema)
-  [`piezas/`](./documentacion/piezas)  
+  - [`piezas/`](./documentacion/piezas)  
     Piezas para la impresión 3D
 
 - [`enunciado/`](./enunciado/)  
