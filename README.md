@@ -27,6 +27,8 @@ En las siguientes carpetas encontrarás todos los recursos del proyecto:
   - **Manual de Mantenimiento** (indicaciones de cuidado y mantenimiento del sistema)
   - [`piezas/`](./documentacion/piezas)  
     Piezas para la impresión 3D
+  - [`intentosde simulacion/`](./documentacion/intento_simulacion)  
+    Los prototipos anteriores fallidos
 
 - [`enunciado/`](./enunciado/)  
   Carpeta que contiene el enunciado completo del proyecto.
