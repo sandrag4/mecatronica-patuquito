@@ -2,9 +2,11 @@
 // Los servos dejan de girar cuando han completado 5 vueltas
 
 // posicion:
+
 // izquierda delante 12 -> 6
 // izquierda medio 10 -> 4
 // izquierda detras 8 -> 2
+
 // derecha delante 13 -> 7
 // derecha medio 11 -> 5
 // derecha detras 9 -> 3
@@ -63,8 +65,6 @@ void loop(){
 
     if(angle < 0) angle += 180;   // normaliza a 0-180
     if(prevAngle[i] < 0) prevAngle[i] += 180;
-
-    
 
     // Detectar cruce de 180° → 0° para contar vueltas
     if(prevAngle[i] > 90 && angle < 90){
